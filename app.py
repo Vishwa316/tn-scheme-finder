@@ -4,6 +4,9 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_community.vectorstores import FAISS
 from langchain_community.embeddings import HuggingFaceEmbeddings
 from groq import Groq
+import os
+from dotenv import load_dotenv
+load_dotenv()
 
 # ============================================
 # CONFIGURATION — Replace with your Groq API Key
