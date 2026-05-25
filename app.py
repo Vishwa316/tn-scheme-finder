@@ -108,6 +108,26 @@ with col4:
     st.markdown('<div class="stat-box"><h3>AI</h3><p>Powered Matching</p></div>', unsafe_allow_html=True)
 
 st.markdown("<br>", unsafe_allow_html=True)
+# Category Filter
+st.markdown('<div class="section-title">🔎 Filter by Category</div>', unsafe_allow_html=True)
+
+categories = [
+    "🏠 All Schemes",
+    "📚 Education",
+    "👩 Women Empowerment", 
+    "💼 Employment & Skills",
+    "🏥 Health",
+    "🏠 Housing",
+    "👴 Senior Citizens",
+    "♿ Differently Abled",
+    "🌾 Agriculture",
+    "⚽ Sports",
+    "💰 Social Security"
+]
+
+selected_category = st.pills("Select Category", categories, default="🏠 All Schemes")
+st.session_state.selected_category = selected_category
+st.markdown("<br>", unsafe_allow_html=True)
 
 @st.cache_resource
 def load_schemes():
@@ -228,6 +248,10 @@ Disability Status: {has_disability}
                         if language == "Tamil"
                         else "Respond in clear, simple English."
                     )
+                    # Category filter logic
+                    category_filter = ""
+                    if st.session_state.get("selected_category") and st.session_state.selected_category != "🏠 All Schemes":
+                        category_filter = f"Focus ONLY on schemes related to category: {st.session_state.selected_category}. Ignore other schemes."
 
                     client = Groq(api_key=GROQ_API_KEY)
                     response = client.chat.completions.create(
@@ -238,6 +262,7 @@ Disability Status: {has_disability}
                                 "role": "system",
                                 "content": f"""You are an expert Tamil Nadu government scheme advisor with deep knowledge of all 2026 welfare programs.
 {lang_instruction}
+{category_filter}
 
 For EACH eligible scheme provide:
 ✅ Scheme Name
