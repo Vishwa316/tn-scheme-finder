@@ -10,7 +10,7 @@ from groq import Groq
 import os
 from dotenv import load_dotenv
 load_dotenv()
-GROQ_API_KEY = os.getenv("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")
+GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 # ============================================
 
 st.set_page_config(page_title="TN Scheme Finder 2026", page_icon="🏛️", layout="wide")
