@@ -1,0 +1,274 @@
+SCHEME: Kalaignar Magalir Urimai Thittam
+CATEGORY: Women Empowerment
+ELIGIBILITY: Women above 21 years, annual family income below 2.5 lakhs, Tamil Nadu resident, must be head of family, not a government employee or income tax payer, not receiving any other government pension
+BENEFIT: Rs 1000 per month direct bank transfer, Rs 12000 per year
+LAUNCH: September 2023, payments continuing in 2026
+DEPARTMENT: Social Welfare and Women Empowerment Department
+APPLY_LINK: https://www.tn.gov.in/schemes.php
+OFFICIAL_SITE: https://www.tn.gov.in
+DOCUMENTS: Aadhaar card, bank passbook, income certificate, ration card, family card
+HELPLINE: 14417
+
+SCHEME: Pudhumai Penn Thittam
+CATEGORY: Education, Women Empowerment
+ELIGIBILITY: Girl students who studied in Tamil Nadu government schools from Class 6 to 12 and currently pursuing higher education in government or government aided college, age below 25, family income below 2.5 lakhs, unmarried preferred
+BENEFIT: Rs 1000 per month directly to bank account while studying in college, expanded in 2025 to include more college students
+LAUNCH: September 2022, expanded 2025-26
+DEPARTMENT: School Education Department, TNEGA
+APPLY_LINK: https://www.pudhumaipenn.tn.gov.in
+OFFICIAL_SITE: https://www.pudhumaipenn.tn.gov.in
+DOCUMENTS: Class 12 school TC, college admission proof, Aadhaar, bank passbook, community certificate, income certificate
+HELPLINE: 044-29582486
+
+SCHEME: Tamil Pudhalvan Thittam
+CATEGORY: Education, Youth
+ELIGIBILITY: Male students who studied in Tamil Nadu government schools from Class 6 to 12 and currently pursuing higher education in government or government aided college, age between 18 to 25, family income below 2.5 lakhs
+BENEFIT: Rs 1000 per month directly to bank account while studying in college, expanded to college students in 2025-26
+LAUNCH: August 2024, expanded 2025-26
+DEPARTMENT: Social Welfare and Women Empowerment Department, TNEGA
+APPLY_LINK: https://www.umis.tn.gov.in
+OFFICIAL_SITE: https://www.umis.tn.gov.in
+DOCUMENTS: Class 12 school TC, college admission proof, Aadhaar, bank passbook, community certificate, income certificate
+HELPLINE: 044-29582486
+
+SCHEME: Naan Mudhalvan Thittam
+CATEGORY: Skills, Employment, Youth, Students
+ELIGIBILITY: Students and youth aged 15 to 45, Tamil Nadu resident, studying or completed education, includes school students Class 9 to 12, college students, graduates, diploma holders
+BENEFIT: Free skill training in 600 plus courses including IT, AI, robotics, healthcare, finance, certification, placement assistance, Rs 2500 stipend during training
+LAUNCH: 2022, expanded 2025-26
+DEPARTMENT: Tamil Nadu Skill Development Corporation
+APPLY_LINK: https://www.naanmudhalvan.tn.gov.in
+OFFICIAL_SITE: https://www.naanmudhalvan.tn.gov.in
+DOCUMENTS: Aadhaar, educational certificate, community certificate, passport photo, bank passbook
+HELPLINE: 1800-599-0098
+
+SCHEME: Ulagam Ungal Kaiyil Free Laptop Scheme 2026
+CATEGORY: Education, Students, Digital
+ELIGIBILITY: Final year students in Tamil Nadu government and government aided colleges across all streams including arts, science, engineering, medicine, agriculture, law, polytechnic, ITI, must be Tamil Nadu permanent resident, enrolled in government or government aided college
+BENEFIT: Free high quality laptop worth Rs 25000 to Rs 30000, 20 lakh students to benefit in 2 years, Rs 2000 crore allocated
+LAUNCH: January 5 2026, inaugurated by CM MK Stalin
+DEPARTMENT: School Education Department
+APPLY_LINK: https://www.tn.gov.in/schemes.php
+OFFICIAL_SITE: https://www.tn.gov.in
+DOCUMENTS: College ID, mark sheet, Aadhaar, college enrollment certificate
+HELPLINE: 044-28514444
+
+SCHEME: Tamil Nadu Free Tablet Scheme for School Students
+CATEGORY: Education, Students, Digital
+ELIGIBILITY: Students studying in Tamil Nadu government schools in Classes 6 to 8
+BENEFIT: Free tablet computer for digital learning
+LAUNCH: 2022, ongoing 2026
+DEPARTMENT: School Education Department
+APPLY_LINK: https://www.tn.gov.in/schemes.php
+OFFICIAL_SITE: https://www.tn.gov.in
+DOCUMENTS: School enrollment proof, Aadhaar
+HELPLINE: 044-28514444
+
+SCHEME: Vetri Nichayam Scheme 2026
+CATEGORY: Skills, Employment, Youth
+ELIGIBILITY: Unemployed youth aged 18 to 35, Tamil Nadu resident, graduates, ITI holders, diploma holders, or school dropouts seeking employment, not currently employed
+BENEFIT: Free skill development training in industry relevant skills, job placement assistance, certification from recognized bodies, over 600 courses available
+LAUNCH: 2026
+DEPARTMENT: Tamil Nadu Skill Development Corporation
+APPLY_LINK: https://www.naanmudhalvan.tn.gov.in
+OFFICIAL_SITE: https://www.naanmudhalvan.tn.gov.in
+DOCUMENTS: Aadhaar, educational certificate, residence proof, passport photo, employment exchange registration if available
+HELPLINE: 1800-599-0098
+
+SCHEME: Tamil Nadu Unemployment Assistance Scheme 2026
+CATEGORY: Employment, Youth, Financial Support
+ELIGIBILITY: Unemployed graduates and youth registered at Employment Exchange, Tamil Nadu resident, age 21 to 35, must have active employment exchange registration at tnvelaivaaippu.gov.in, not employed in any government or private sector
+BENEFIT: Monthly financial assistance being revised up to Rs 4000 per month, new GO expected in 2026
+LAUNCH: Ongoing, 2026 revision pending
+DEPARTMENT: Department of Employment and Training
+APPLY_LINK: https://tnvelaivaaippu.gov.in/Empower
+OFFICIAL_SITE: https://tnvelaivaaippu.gov.in/Empower
+DOCUMENTS: Aadhaar, degree or diploma certificate, employment exchange registration card, bank passbook, income certificate, residence proof
+HELPLINE: 044-28521003
+
+SCHEME: Chief Minister Breakfast Scheme
+CATEGORY: Education, Children, Nutrition
+ELIGIBILITY: Students studying in Tamil Nadu government schools from Class 1 to 5, automatic enrollment through school, no separate application
+BENEFIT: Free nutritious breakfast every school day, government provides eggs, fruits, milk regularly
+LAUNCH: September 2022, ongoing 2026
+DEPARTMENT: School Education Department
+APPLY_LINK: https://www.tn.gov.in/schemes.php
+OFFICIAL_SITE: https://www.tn.gov.in
+DOCUMENTS: School enrollment proof only, automatic through school
+HELPLINE: 044-28514444
+
+SCHEME: Chief Minister Comprehensive Health Insurance Scheme CMCHIS
+CATEGORY: Health, Insurance
+ELIGIBILITY: Families with annual income below 1.2 lakhs, ration card holders, Tamil Nadu resident, covers entire family
+BENEFIT: Free medical treatment up to Rs 5 lakhs per family per year, covers 1400 plus medical procedures including major surgeries, cashless treatment at 900 plus hospitals
+LAUNCH: 2012, enhanced 2023, continuing 2026
+DEPARTMENT: Health and Family Welfare Department
+APPLY_LINK: https://www.cmchistn.com
+OFFICIAL_SITE: https://www.cmchistn.com
+DOCUMENTS: Ration card, Aadhaar, income certificate, family photo
+HELPLINE: 104
+
+SCHEME: Nalam Kakkum Stalin Scheme
+CATEGORY: Health, Rural Healthcare
+ELIGIBILITY: All Tamil Nadu residents especially rural and semi-urban areas, free for everyone at government health centers
+BENEFIT: Free doctor consultation, free medicines, free diagnostic tests, health camps, doorstep healthcare for elderly and disabled, launched in 1250 zones across TN
+LAUNCH: August 2 2025, expanded 2026
+DEPARTMENT: Health and Family Welfare Department
+APPLY_LINK: https://www.tnhealth.tn.gov.in
+OFFICIAL_SITE: https://www.tnhealth.tn.gov.in
+DOCUMENTS: Aadhaar card, ration card
+HELPLINE: 104
+
+SCHEME: Mudhalvar Marundhagam Scheme
+CATEGORY: Health, Medicine
+ELIGIBILITY: All Tamil Nadu residents, available at all government hospitals and primary health centers, focuses on economically weaker sections
+BENEFIT: Essential medicines at 50 percent discounted rates at government pharmacies, free medicines for BPL families
+LAUNCH: 2025, expanded 2026
+DEPARTMENT: Health and Family Welfare Department
+APPLY_LINK: https://www.tnhealth.tn.gov.in
+OFFICIAL_SITE: https://www.tnhealth.tn.gov.in
+DOCUMENTS: Aadhaar, doctor prescription
+HELPLINE: 104
+
+SCHEME: Dr. Muthulakshmi Reddy Maternity Benefit Scheme
+CATEGORY: Health, Maternity, Women
+ELIGIBILITY: Pregnant women in Tamil Nadu, applicable for first 2 children only, annual family income below 72000, must register at government hospital before 12 weeks of pregnancy
+BENEFIT: Rs 18000 financial assistance given in installments during pregnancy and after delivery
+LAUNCH: 1987, enhanced 2022, continuing 2026
+DEPARTMENT: Health and Family Welfare Department
+APPLY_LINK: https://www.tnhealth.tn.gov.in
+OFFICIAL_SITE: https://www.tnhealth.tn.gov.in
+DOCUMENTS: Pregnancy certificate from government doctor, Aadhaar, bank account, income certificate, ration card
+HELPLINE: 104
+
+SCHEME: Kalaignar Kanavu Illam Scheme
+CATEGORY: Housing, Rural
+ELIGIBILITY: Homeless individuals in rural Tamil Nadu, BPL families, annual income below 72000, must not own any house or land anywhere
+BENEFIT: Free permanent concrete house construction, house site provided if landless, Rs 3500 crore allocated, 8 lakh houses target
+LAUNCH: February 2024, ongoing 2026
+DEPARTMENT: Rural Development and Panchayat Raj Department
+APPLY_LINK: https://www.tnrd.gov.in
+OFFICIAL_SITE: https://www.tnrd.gov.in
+DOCUMENTS: Aadhaar, ration card, income certificate, residence proof, PAN card, election card, passport photo
+HELPLINE: 044-22310989
+
+SCHEME: Tamil Nadu Housing Board TNHB Scheme
+CATEGORY: Housing, Urban
+ELIGIBILITY: Tamil Nadu permanent resident, age above 21, must not own any house or flat through any other state government housing scheme, applicable for EWS LIG MIG income groups
+BENEFIT: Affordable housing plots and flats at subsidized rates, flexible payment plans, lottery based allotment
+LAUNCH: Ongoing, 2026 allotments open
+DEPARTMENT: Tamil Nadu Housing Board
+APPLY_LINK: https://www.tnhb.gov.in
+OFFICIAL_SITE: https://www.tnhb.gov.in
+DOCUMENTS: Aadhaar, voter ID, bank details, ration card, income certificate, passport photo
+HELPLINE: 044-28592828
+
+SCHEME: Old Age Pension Scheme
+CATEGORY: Senior Citizens, Social Security
+ELIGIBILITY: Age above 60 years, annual income below 75000, Tamil Nadu resident, BPL category preferred, not receiving any other government pension
+BENEFIT: Rs 1000 per month pension directly to bank account
+LAUNCH: Ongoing, enhanced 2022, continuing 2026
+DEPARTMENT: Social Welfare Department
+APPLY_LINK: https://www.tnsocialwelfare.tn.gov.in
+OFFICIAL_SITE: https://www.tnsocialwelfare.tn.gov.in
+DOCUMENTS: Age proof birth certificate or school certificate, income certificate, Aadhaar, bank passbook, ration card, residence proof
+HELPLINE: 044-28514444
+
+SCHEME: Differently Abled Persons Welfare Scheme
+CATEGORY: Differently Abled, Social Security
+ELIGIBILITY: Persons with 40 percent or more disability certified by government hospital, annual income below 75000, Tamil Nadu resident, age above 18
+BENEFIT: Rs 1500 per month pension, free bus pass statewide, free education up to graduation, assistive devices like wheelchairs and hearing aids, free surgery at government hospitals
+LAUNCH: Ongoing, enhanced 2023, continuing 2026
+DEPARTMENT: Social Welfare Department
+APPLY_LINK: https://www.tnsocialwelfare.tn.gov.in
+OFFICIAL_SITE: https://www.tnsocialwelfare.tn.gov.in
+DOCUMENTS: Disability certificate from government hospital, Aadhaar, income certificate, bank passbook, ration card
+HELPLINE: 044-28514444
+
+SCHEME: Widow Pension Scheme
+CATEGORY: Women, Social Security
+ELIGIBILITY: Widows above 18 years, annual income below 75000, Tamil Nadu resident, should not be remarried, should not be receiving any other government pension
+BENEFIT: Rs 1000 per month pension directly to bank account
+LAUNCH: Ongoing, continuing 2026
+DEPARTMENT: Social Welfare Department
+APPLY_LINK: https://www.tnsocialwelfare.tn.gov.in
+OFFICIAL_SITE: https://www.tnsocialwelfare.tn.gov.in
+DOCUMENTS: Husband death certificate, marriage certificate, Aadhaar, income certificate, bank passbook, ration card
+HELPLINE: 044-28514444
+
+SCHEME: Pongal Gift Scheme 2026
+CATEGORY: Social Welfare, Festival
+ELIGIBILITY: All ration card PDS holders in Tamil Nadu, automatic benefit, no separate application needed, covers all categories of ration card holders
+BENEFIT: Rs 1000 cash via direct bank transfer, free rice 1 to 2 kg, free sugar 1 kg, free dhoti or saree, total value approximately Rs 1500 to 2000 per family
+LAUNCH: Annual scheme, 2026 edition distributed in January 2026, over 2 crore families benefited
+DEPARTMENT: Tamil Nadu Civil Supplies Corporation
+APPLY_LINK: https://www.tn.gov.in/schemes.php
+OFFICIAL_SITE: https://www.tnpds.gov.in
+DOCUMENTS: Ration card, Aadhaar
+HELPLINE: 1967
+
+SCHEME: UYEGP Urban Youth Employment Generation Programme
+CATEGORY: Entrepreneurship, Employment, Youth, Urban
+ELIGIBILITY: Youth aged 18 to 35 in urban areas of Tamil Nadu, minimum 8th standard pass, annual family income below 1.5 lakhs, not a bank loan defaulter
+BENEFIT: Loan up to Rs 3 lakhs for own business with 25 percent government subsidy, skill training, mentorship
+LAUNCH: 2012, ongoing 2026
+DEPARTMENT: Tamil Nadu Urban Habitat Development Board
+APPLY_LINK: https://www.tnahdb.gov.in
+OFFICIAL_SITE: https://www.tnahdb.gov.in
+DOCUMENTS: Aadhaar, educational certificate, income certificate, community certificate, project report, bank account details
+HELPLINE: 044-28591717
+
+SCHEME: Tamil Nadu Assured Pension Scheme TAPS 2026
+CATEGORY: Government Employees, Pension
+ELIGIBILITY: Tamil Nadu public sector government employees who joined service after 2004, teachers, nurses, state government workers who were under National Pension System NPS
+BENEFIT: Monthly pension equal to 50 percent of last drawn basic pay after retirement, dearness allowance, gratuity, family pension
+LAUNCH: Announced 2025, implemented 2026
+DEPARTMENT: Finance Department, Government of Tamil Nadu
+APPLY_LINK: https://www.tn.gov.in/schemes.php
+OFFICIAL_SITE: https://www.tn.gov.in
+DOCUMENTS: Service record, employee ID, retirement order, bank account, Aadhaar
+HELPLINE: 044-25672345
+
+SCHEME: SSC Bank Job Free Residential Training
+CATEGORY: Employment, Education, Youth
+ELIGIBILITY: Youth with bachelor degree from recognized institution, age between 21 and 29, Tamil Nadu resident, preparing for SSC Railways or bank exams
+BENEFIT: Free 6 month residential training with food and accommodation, Rs 2500 monthly stipend, coaching by expert faculty
+LAUNCH: 2024 budget, ongoing 2026
+DEPARTMENT: Tamil Nadu Skill Development Corporation under Naan Mudhalvan
+APPLY_LINK: https://www.naanmudhalvan.tn.gov.in
+OFFICIAL_SITE: https://www.naanmudhalvan.tn.gov.in
+DOCUMENTS: Degree certificate, Aadhaar, income certificate, community certificate, age proof
+HELPLINE: 1800-599-0098
+
+SCHEME: Dr. Ambedkar Inter Caste Marriage Scheme
+CATEGORY: Social Welfare, Marriage
+ELIGIBILITY: Couples where one person belongs to SC or ST community and other belongs to a different caste, legally married, Tamil Nadu residents, annual income below 5 lakhs
+BENEFIT: Rs 2.5 lakhs financial assistance as incentive for inter-caste marriage promoting social harmony
+LAUNCH: Ongoing, enhanced 2023, continuing 2026
+DEPARTMENT: Adi Dravidar and Tribal Welfare Department
+APPLY_LINK: https://www.adwelfare.tn.gov.in
+OFFICIAL_SITE: https://www.adwelfare.tn.gov.in
+DOCUMENTS: Marriage certificate, community certificates of both spouses, Aadhaar of both, income certificate, joint bank account
+HELPLINE: 044-28410467
+
+SCHEME: Moovalur Ramamirtham Ammaiyar Higher Education Assurance Scheme
+CATEGORY: Education, Women
+ELIGIBILITY: Girl students from Tamil Nadu government schools who passed Class 12, pursuing higher education, annual family income below 72000, should not be married
+BENEFIT: Free higher education fees, free hostel facility, Rs 1000 monthly stipend during studies
+LAUNCH: 2019, continuing 2026
+DEPARTMENT: School Education Department
+APPLY_LINK: https://ssp24-25.tnega.org/institute/all_schemes.html
+OFFICIAL_SITE: https://www.tnscholarship.tn.gov.in
+DOCUMENTS: Class 12 mark sheet, school certificate, income certificate, community certificate, Aadhaar
+HELPLINE: 044-29582486
+
+SCHEME: Kalaignar Sports Kit Scheme
+CATEGORY: Sports, Youth, Students
+ELIGIBILITY: Students in Tamil Nadu government schools from Classes 6 to 12 who participate in sports, automatic distribution through school sports teacher
+BENEFIT: Free sports kit including shoes uniform and equipment worth Rs 3000
+LAUNCH: 2023, ongoing 2026
+DEPARTMENT: Youth Welfare and Sports Development Department
+APPLY_LINK: https://www.tn.gov.in/schemes.php
+OFFICIAL_SITE: https://www.tn.gov.in
+DOCUMENTS: School ID, sports participation certificate
+HELPLINE: 044-28591717
